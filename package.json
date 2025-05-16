@@ -1,0 +1,21 @@
+{
+  "name": "githubactions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Running tests...'",
+    "deploy": "echo 'Deploying...'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andre-101/EjemploGithubActions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andre-101/EjemploGithubActions/issues"
+  },
+  "homepage": "https://github.com/Andre-101/EjemploGithubActions#readme"
+}
